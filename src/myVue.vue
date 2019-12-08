@@ -4,6 +4,11 @@
 
 <script>
 export default {
+  data () {
+    return {
+      nnumber: 1212
+    }
+  }
 
 }
 </script>
